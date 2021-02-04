@@ -1,6 +1,11 @@
-python practice 
+python practice         
+
+python version :         
+                 
+    3.9 
 
 project use :   
+
     tkinter        
     pyinstaller
     
